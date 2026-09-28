@@ -7,6 +7,10 @@ Repository này bao gồm 2 phiên bản triển khai:
 2. **Phiên bản Jupyter Notebook (.ipynb):** Base code tham khảo của giảng viên (00_Server, 01_Client_A, 02_Client_B).
 
 ---
+## Phân công và thành viên
+Nguyễn Phúc Khôi - 2410482: làm server
+Phạm Tiến Hải - 2410422: làm client A
+Vũ Mạnh Hưng - 2410408: làm client B
 
 ## Hướng dẫn sử dụng (Phiên bản Terminal)
 
